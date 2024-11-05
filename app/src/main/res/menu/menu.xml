@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuCerrarSesion"
+        android:title="Cerrar Sesión"/>
+    <item
+        android:id="@+id/menuConectarse"
+        android:title="Conectarse" />
+    <item
+        android:id="@+id/menuDesconectarse"
+        android:title="Desconectarse" />
+    <item
+        android:id="@+id/usuarioDisponibles"
+        android:title="Usuarios Disponibles" />
+</menu>
